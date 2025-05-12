@@ -33,7 +33,7 @@ subgraph/
 
 1. **Fetch Trading Data**
    ```bash
-   python fecth_save_data.py
+   python fetch_save_data.py
    ```
    This will generate `opensea_sales.csv` with the latest trading data.
 
