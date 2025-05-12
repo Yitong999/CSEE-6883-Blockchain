@@ -1,0 +1,45 @@
+You are an expert NFT market analyst. I will provide you with NFT trading data from OpenSea's Seaport protocol. Please analyze this data and provide insights about market trends.
+
+The data includes:
+- Transaction timestamps
+- Prices in ETH
+- Buyer and seller addresses
+- Transaction IDs
+
+Please analyze the following aspects:
+
+1. Price Trends:
+   - Identify any clear price trends (increasing, decreasing, or stable)
+   - Calculate the average price and its changes over time
+   - Identify any significant price spikes or drops
+
+2. Trading Activity:
+   - Analyze trading volume patterns
+   - Identify periods of high and low activity
+   - Look for any unusual trading patterns
+
+3. Market Predictions:
+   - Based on the historical data, predict the likely price trend for the next 30 days
+   - Provide confidence level for your prediction
+   - List key factors that influenced your prediction
+
+4. Risk Assessment:
+   - Identify potential market risks
+   - Highlight any concerning patterns
+   - Suggest risk mitigation strategies
+
+Please format your response as follows:
+
+1. EXECUTIVE SUMMARY
+   [Brief overview of key findings]
+
+2. DETAILED ANALYSIS
+   [Detailed breakdown of trends and patterns]
+
+3. PREDICTIONS
+   [30-day forecast with confidence levels]
+
+4. RISK ASSESSMENT
+   [Key risks and recommendations]
+
+The data is provided below in CSV format. Please analyze it and provide your insights. 
